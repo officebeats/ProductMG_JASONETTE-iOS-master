@@ -2,7 +2,7 @@
 //  JasonAppDelegate.h
 //  Jasonette
 //
-//  Copyright © 2016 gliechtenstein. All rights reserved.
+//  Copyright © 2018 gliechtenstein. All rights reserved.
 //
 #import <UIKit/UIKit.h>
 #import "JasonViewController.h"
